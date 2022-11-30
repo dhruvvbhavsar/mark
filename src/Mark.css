@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit');
+
+.MainD {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5vh;
+}
+
+textarea {
+    flex: 0.45;
+    height: 95vh;
+    font-size: large;
+    border-radius: 2%;
+    background-color: whitesmoke;
+    opacity: 0.9;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+textarea:hover {
+    opacity: 1;
+}
+
+
+.MainE { 
+    position: relative;
+    flex: 0.45;
+    overflow: auto;
+    height: 95vh;
+    text-align: start;
+    background-color: rgb(121, 119, 119);
+    font-size: large;
+    border-radius: 2%;
+}
+
+
+
+* {
+    margin: 0;
+    overflow: auto;
+}
+
+.MainC {
+    display: flex;
+    justify-content: space-between;
+    padding: 1% 20%;
+    color: black;
+    font-family: 'Kanit';
+}
+
+body {
+    background: linear-gradient(to bottom, rgb(214, 139, 88) 60%,white);
+}
