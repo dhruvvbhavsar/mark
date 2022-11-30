@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/markdowm/static/css/main.7077c092.css",
-    "main.js": "/markdowm/static/js/main.108a223e.js",
-    "static/js/787.dc46d09f.chunk.js": "/markdowm/static/js/787.dc46d09f.chunk.js",
-    "index.html": "/markdowm/index.html",
-    "main.7077c092.css.map": "/markdowm/static/css/main.7077c092.css.map",
-    "main.108a223e.js.map": "/markdowm/static/js/main.108a223e.js.map",
-    "787.dc46d09f.chunk.js.map": "/markdowm/static/js/787.dc46d09f.chunk.js.map"
+    "main.css": "/mark/static/css/main.7077c092.css",
+    "main.js": "/mark/static/js/main.6d19230c.js",
+    "static/js/787.dc46d09f.chunk.js": "/mark/static/js/787.dc46d09f.chunk.js",
+    "index.html": "/mark/index.html",
+    "main.7077c092.css.map": "/mark/static/css/main.7077c092.css.map",
+    "main.6d19230c.js.map": "/mark/static/js/main.6d19230c.js.map",
+    "787.dc46d09f.chunk.js.map": "/mark/static/js/787.dc46d09f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7077c092.css",
-    "static/js/main.108a223e.js"
+    "static/js/main.6d19230c.js"
   ]
 }
